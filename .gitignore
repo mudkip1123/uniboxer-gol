@@ -1,0 +1,6 @@
+__pycache__/
+config.priv.ini
+tok.to
+*.Png
+src.PNG
+out.gif
